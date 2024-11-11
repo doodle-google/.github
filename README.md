@@ -1,2 +1,2 @@
 # Online Doodle Games
-Google Doodles
+Free Google Doodles
