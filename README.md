@@ -1,2 +1,2 @@
-# .github
+# Online Doodle Games
 Google Doodles
